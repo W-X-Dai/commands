@@ -7,11 +7,11 @@ git init
 ```
 # push that folder to github
 ``` git
-git remote <name> <the url of your repository>
+git remote add <name> <the url of your repository>
 ```
 > i.e.
 ``` git
-git remote origin https://github.com/W-X-Dai/commands
+git remote add origin https://github.com/W-X-Dai/commands
 ```
 # you need to update your local git folder if you add something new
 ``` git
