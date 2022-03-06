@@ -1,6 +1,5 @@
 # commands
 git commands
-
 # create a new git folder
 ``` git
 cd <folder>
@@ -10,12 +9,10 @@ git init
 ``` git
 git remote <name> <the url of your repository>
 ```
-
 > i.e.
 ``` git
 git remote origin https://github.com/W-X-Dai/commands
 ```
-
 # you need to update your local git folder if you add something new
 ``` git
 git add .
@@ -26,32 +23,34 @@ and then push them to guthub
 ``` git
 git status
 ```
-
 # remember to choose the branch you want
 ``` git
 git checkout <branch>
 ```
-
 >i.e.
 ``` git
 git checkout main
 ```
-
-
-
+# git commit
+> before pushing new file to github,you need to add a commit about it
+``` git
+git commit -m "<commit>"
+```
+> i.e.
+``` git
+git commit -m "test"
+```
 # now you can push your folder to github
 ``` git
 git push <name> <branch>
 ```
-
 > i.e.
 ``` git
 git push origin main
 ```
-
 # if you want to gain folder from github
-direct to your target folder first
-then 
+> direct to your target folder first
+> then 
 ``` git
 git pull <name> <branch>
 ```
@@ -65,11 +64,7 @@ git pull origin main
 clear
 ```
 
-enjoy github,have fun with git!
-
-
-
-
+> enjoy github,have fun with git!
 
 
 
