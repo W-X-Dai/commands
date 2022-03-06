@@ -65,6 +65,11 @@ clear
 ```
 
 > enjoy github,have fun with git!
-
+# reference
+https://cynthiachuang.github.io/Generating-a-Ssh-Key-and-Adding-It-to-the-Github/
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/585490/
+https://backlog.com/git-tutorial/tw/intro/intro2_1.html
+https://backlog.com/git-tutorial/tw/stepup/stepup2_3.html
+> thank these pages !
 
 
